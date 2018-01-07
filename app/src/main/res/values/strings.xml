@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+
+    <string-array name="Difficulty_Level">
+        <item>Easy</item>
+        <item>Medium</item>
+        <item>Impossible</item>
+    </string-array>
+</resources>
